@@ -4,18 +4,9 @@
 <p align="center">My GitHub Stats</p>
 
 <a href="https://github.com/mrzalais/mrzalais">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=github-readme-stats&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzalais&theme=gruvbox"  />
 </a>
 
 <a href="https://github.com/mrzalais/mrzalais">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais />
-</a>
-
-
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzalais&theme=tokyonight"  />
-</a>
-
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzalais&show_icons=true&line_height=27&theme=tokyonight" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzalais&theme=gruvbox" alt="Catalin's GitHub Stats" />
 </a>
