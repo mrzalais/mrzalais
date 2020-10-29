@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<a href="https://pasteboard.co/JxX0TZw.png" border="0"></a>
+<a href="https://ibb.co/vcMmK31"><img src="https://i.ibb.co/vcMmK31/myimg.png" alt="myimg"></a>
 
 <p>I am a software developer from Latvia 🇱🇻</p>
 
