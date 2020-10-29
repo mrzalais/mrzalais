@@ -1,6 +1,8 @@
 <h1> Hi there 👋</h1>
 <p>I am a software developer from Latvia 🇱🇻</p>
 
+![Alt text](/desktop/myimg.png?raw=true "Title")
+
 <h2>My GitHub Stats</h2>
 
 <a href="https://github.com/mrzalais/mrzalais">
