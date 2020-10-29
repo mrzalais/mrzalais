@@ -1,4 +1,6 @@
-![Hi there 👋]<a href="https://ibb.co/vcMmK31"><img src="https://i.ibb.co/HK9Ykt7/myimg.png" alt="myimg" border="0"></a>
+<a href="https://ibb.co/vcMmK31"><img src="https://i.ibb.co/HK9Ykt7/myimg.png" alt="myimg" border="0"></a>
+
+<h1>Hi there 👋</h1>
 
 <p>I am a software developer from Latvia 🇱🇻</p>
 
