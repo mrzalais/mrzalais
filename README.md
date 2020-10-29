@@ -3,8 +3,8 @@
 
 <p align="center">My GitHub Stats</p>
 
-<a align="center" href="https://github.com/mrzalais/mrzalais">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzalais&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/mrzalais/mrzalais">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzalais&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 </br>
