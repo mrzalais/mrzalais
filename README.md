@@ -1,10 +1,7 @@
 <h1>Hi there 👋</h1>
 
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 79”>
-<img src=“https://ibb.co/vcMmK31" raw=true alt=“Subject Pronouns” style=“margin-right: 10px;”/>
-<a href="https://ibb.co/vcMmK31"><img src="https://i.ibb.co/vcMmK31/myimg.png" alt="myimg" border="0"></a>
-
+![myimg](https://user-images.githubusercontent.com/64210341/97640873-5cb1f280-1a4a-11eb-9f83-fdec158a9216.png)
 <p>I am a software developer from Latvia 🇱🇻</p>
 
 <h2>My GitHub Stats</h2>
