@@ -1,4 +1,12 @@
 <h1 align="center"> Hi there 👋</h1>
 <p align="center">I am a software developer from Latvia 🇱🇻</p>
-<p align="center"><b> Get in touch with me</b></p>
-<p align="center">LinkedIn: <a href="https://www.linkedin.com/in/edijslejnieks">linkedin.com/in/edijslejnieks</a></p>
+
+My GitHub Stats
+
+<a href="https://github.com/mrzalais/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzalais&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub stats" />
+</a>
