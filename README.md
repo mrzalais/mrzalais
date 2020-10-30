@@ -9,7 +9,7 @@
 <a href="https://github.com/mrzalais/mrzalais">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzalais&theme=synthwave" alt="Catalin's GitHub Stats" />
 </a>
-<br>
+
 <a href="https://github.com/mrzalais/mrzalais">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzalais&theme=synthwave"  />
 </a>
