@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 
-![myimg](https://user-images.githubusercontent.com/64210341/97743502-6d1ba900-1aee-11eb-8ed7-f718a51fd56e.png)
+![myimg](https://user-images.githubusercontent.com/64210341/97743721-c1bf2400-1aee-11eb-94cc-78a731fb8d1e.png)
 <p>I am a software developer from Latvia 🇱🇻</p>
 
 <h2>My GitHub Stats</h2>
