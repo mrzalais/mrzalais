@@ -3,8 +3,10 @@
 <a href="https://https://github.com/mrzalais/Rock-Paper-Scissors-Lizard-Spock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=Rock-Paper-Scissors-Lizard-Spock" />
  </a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=codelex-blog)]https://github.com/mrzalais/codelex-blog)
+ 
+<a href="https://github.com/mrzalais/codelex-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=codelex-blog" />
+</a>
 
 
 <h2>My GitHub Stats</h2>
