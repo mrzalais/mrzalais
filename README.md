@@ -1,7 +1,7 @@
 ![6666](https://user-images.githubusercontent.com/64210341/97890130-d7725a80-1d35-11eb-8e10-f0faeb44d4a6.png)
 
 
-<a href="https://https://github.com/mrzalais/Rock-Paper-Scissors-Lizard-Spock">
+<a href="https://github.com/mrzalais/Rock-Paper-Scissors-Lizard-Spock>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=Rock-Paper-Scissors-Lizard-Spock" />
  </a>
  
