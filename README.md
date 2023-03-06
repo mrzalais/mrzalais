@@ -1,12 +1,16 @@
 ![6666](https://user-images.githubusercontent.com/64210341/97890130-d7725a80-1d35-11eb-8e10-f0faeb44d4a6.png)
 
-
-<a href="https://github.com/mrzalais/birdboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=birdboard" />
+# See my most recent work
+<a href="https://github.com/mrzalais/news-scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=news-scraper" />
  </a>
  
-<a href="https://github.com/mrzalais/Video-game-aggregator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=Video-game-aggregator" />
+<a href="https://github.com/mrzalais/food-delivery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzalais&repo=food-delivery" />
+</a>
+
+<a href="https://github.com/vladislavs-poznaks/crypto-trader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladislavs-poznaks&repo=crypto-trader" />
 </a>
 
 
