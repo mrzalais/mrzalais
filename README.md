@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,postgres"/>
+    <img src="https://skillicons.dev/icons?i=rabbitmq,postgres,python,sqlite,discord,linux,postman,stackoverflow,sentry,vite,github"/>
     <img width="45" height="45" src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png">
     <img width="90" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PHPUnit_Logo.svg/1280px-PHPUnit_Logo.svg.png">
     <img width="45" height="45" src="https://breezelin.gallerycdn.vsassets.io/extensions/breezelin/phpstan/1.1.5/1618650825581/Microsoft.VisualStudio.Services.Icons.Default">
